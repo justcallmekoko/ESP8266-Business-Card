@@ -23,7 +23,7 @@
 ## Assembly
 ### Schematic
 <p align="center">
-    <img src="https://github.com/ryan-koko/ESP8266-Business-Card/blob/master/design/ESP8266-ESP12-Business-Card-4-Schematic_20190523141223.png">
+    <img src="https://github.com/justcallmekoko/ESP8266-Business-Card/blob/master/design/ESP8266-ESP12-Business-Card-4-Schematic_20190523141223.png">
 </p>
 
 ## Flashing Firmware
