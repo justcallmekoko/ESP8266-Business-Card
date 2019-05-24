@@ -2,12 +2,12 @@
 
 ## Table of Contents
 - [About](#about)
-- [Assmebly and programming](#assembly-and-programming)
+- [Assembly and programming](#assembly-and-programming)
 - [List of Parts](#list-of-parts)
 - [Schematic](#schematic)
 
 ## About
-Pretty cool, right? A business card made out of fiberglass, copper, and (not)lead [RoHS](https://en.wikipedia.org/wiki/Restriction_of_Hazardous_Substances_Directive). What does it do other than just look cool? Or make your friends wonder why you're walking around with it like a nerd? Other than serving as a means by which to exchange contact information, it provides the recipient with a chance try their hand at basic electrical engineering and programming. Whether you want to become involved in the world of IoT development or you are just the O-est of G's and need the sickest business card on the block, the ESP8266 Business Card is a fun way to learn a little bit more about what goes on in the MountainDew dungeons of beta-males everywhere.
+Pretty cool, right? A business card made out of fiberglass, copper, and (not)lead [RoHS](https://en.wikipedia.org/wiki/Restriction_of_Hazardous_Substances_Directive). What does it do other than just look cool or make your friends wonder why you're walking around with it like a nerd? Other than serving as a means by which to exchange contact information, it provides the recipient with a chance try their hand at basic electrical engineering and programming. Whether you want to become involved in the world of IoT development or you are just the O-est of G's and need the sickest business card on the block, the ESP8266 Business Card is a fun way to learn a little bit more about what goes on in the MountainDew dungeons of beta-males everywhere.
 
 Make home automation tools. Disable your neighbor's WiFi. Make a WiFi enabled music visualizer that only responds to voice commands in Vietnamese. I don't care what you do with this hunk of junk as long as you enjoy messing with it.
 
