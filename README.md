@@ -1,10 +1,18 @@
 # ESP8266 Business Card
 
 ## Table of Contents
+- [About](#about)
+- [Assmebly and programming](#assembly-and-programming)
 - [List of Parts](#list-of-parts)
-- [Assembly](#assembly)
-  - [Schematic](#schematic)
-- [Flashing Firmware](#flashing-firmware)
+- [Schematic](#schematic)
+
+## About
+Pretty cool, right? A business card made out of fiberglass, copper, and (not)lead [RoHS](https://en.wikipedia.org/wiki/Restriction_of_Hazardous_Substances_Directive). What does it do other than just look cool? Or make your friends wonder why you're walking around with it like a nerd? Other than serving as a means by which to exchange contact information, it provides the recipient with a chance try their hand at basic electrical engineering and programming. Whether you want to become involved in the world of IoT development or you are just the O-est of G's and need the sickest business card on the block, the ESP8266 Business Card is a fun way to learn a little bit more about what goes on in the MountainDew dungeons of beta-males everywhere.
+
+Make home automation tools. Disable your neighbor's WiFi. Make a WiFi enabled music visualizer that only responds to voice commands in Vietnamese. I don't care what you do with this hunk of junk as long as you enjoy messing with it.
+
+## Assembly and programming
+Ready to get started? Visit the [Wiki](https://github.com/justcallmekoko/ESP8266-Business-Card/wiki) for assembly and programming instructions
 
 ## List of Parts
 |Footprint |Part/Value           |Specifications                                 |
@@ -20,10 +28,7 @@
 |U2        |CH340C               |[C84681](https://lcsc.com/product-detail/USB_CH340C_C84681.html) |
 |USB1      |Micro USB-B 5P_C40942|[C40942](https://lcsc.com/product-detail/USB-Connectors_Jing-Extension-of-the-Electronic-Co-LCSC-micro-5PAll-posts-are-not-guided-Flat-welding-High-temperature_C40942.html) |
 
-## Assembly
 ### Schematic
 <p align="center">
     <img src="https://github.com/justcallmekoko/ESP8266-Business-Card/blob/master/design/ESP8266-ESP12-Business-Card-4-Schematic_20190523141223.png">
 </p>
-
-## Flashing Firmware
