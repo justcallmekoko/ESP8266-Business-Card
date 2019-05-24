@@ -30,5 +30,5 @@ Ready to get started? Visit the [Wiki](https://github.com/justcallmekoko/ESP8266
 
 ### Schematic
 <p align="center">
-    <img src="https://github.com/justcallmekoko/ESP8266-Business-Card/blob/master/design/ESP8266-ESP12-Business-Card-4-Schematic_20190523141223.png">
+    <img src="https://github.com/justcallmekoko/ESP8266-Business-Card/blob/master/design/Schematic_ESP8266-ESP12-Business-Card-4_ESP8266-ESP12-Business-Card-4-Schematic_20190524164315.png">
 </p>
